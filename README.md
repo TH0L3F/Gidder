@@ -1,4 +1,5 @@
 # gestionnaire-de-stockage
+try change
 
 Ce projet a pour vocation de permettre à n’importe qui d’ajouter une interface web graphique permettant de gérer les stockages. Cela a pour but de protéger les données des pannes grâce à la technologie RAID plus facilement, plus rapidement et plus visuellement. Cela permet aussi de superviser les disques et les RAID du système ainsi que de les associer à des applications spécifiques plus facilement.
 
