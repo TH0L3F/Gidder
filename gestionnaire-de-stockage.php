@@ -20,7 +20,7 @@
 	}
 
 	/*$db_username = 'login_iris_user';
-    	$db_password = 'QWjYfQxCwRGh';
+    	$db_password = '';
     	$db_name     = 'iris';
     	$db_host     = 'localhost';
     	$db = mysqli_connect($db_host, $db_username, $db_password,$db_name)
