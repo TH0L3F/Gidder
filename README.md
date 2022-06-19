@@ -12,3 +12,5 @@ Les outils proposés par ce logiciels sont:
 7. API pour l’association facile des disques avec des applications.
 
 Ces outils se trouvent sous une surcouche graphique permettant un affichage plus clair et plus intuitif. La possibilité d’accès au système à partir d’un shell n’étant pas impossible.
+
+raid interface web
